@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-05-21T10:52:24.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="lnOjZuL3jCG-OgudKfx6" version="22.1.16" type="device">
+<mxfile host="Electron" modified="2024-06-12T09:31:45.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="7G1Oy0zIJ1PVjMkDklgy" version="22.1.16" type="device">
   <diagram name="Page-1" id="6zD-izsmirur7kcObW2i">
-    <mxGraphModel dx="1237" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1155" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,13 +173,6 @@
         <mxCell id="nUpmGBi-_h0cZOzjPh_h-6" value="does it exceed the maturity date??" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="820" y="235" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="nUpmGBi-_h0cZOzjPh_h-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nUpmGBi-_h0cZOzjPh_h-8" target="6St314M1eqmKRrUnTSBx-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1060" y="150" as="sourcePoint" />
-            <mxPoint x="1210" y="50" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6St314M1eqmKRrUnTSBx-36" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" parent="1" vertex="1">
           <mxGeometry x="1520" y="165" width="20" height="20" as="geometry" />
         </mxCell>
@@ -202,19 +195,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nUpmGBi-_h0cZOzjPh_h-13" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="950" y="-60" width="210" height="440" as="geometry" />
-        </mxCell>
-        <mxCell id="nUpmGBi-_h0cZOzjPh_h-8" value="margin confiscation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;" parent="nUpmGBi-_h0cZOzjPh_h-13" vertex="1">
-          <mxGeometry x="45" y="65" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nUpmGBi-_h0cZOzjPh_h-14" value="margin confiscation event" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="990" y="-100" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="nUpmGBi-_h0cZOzjPh_h-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6St314M1eqmKRrUnTSBx-8" target="nUpmGBi-_h0cZOzjPh_h-8" edge="1">
+        <mxCell id="nUpmGBi-_h0cZOzjPh_h-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6St314M1eqmKRrUnTSBx-8" target="6St314M1eqmKRrUnTSBx-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1020" y="170" as="sourcePoint" />
-            <mxPoint x="880" y="80" as="targetPoint" />
+            <mxPoint x="995" y="34.99999999999977" as="targetPoint" />
             <Array as="points">
               <mxPoint x="880" y="35" />
             </Array>

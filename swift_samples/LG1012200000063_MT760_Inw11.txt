@@ -1,0 +1,50 @@
+{1:F01ABOCCNBJ112A0001001170}{2:I760AEIBDEFXXXXXN}{4:
+:22A:ISSU
+:23X:OTHR
+:20:LG1012200000063
+:30:240101
+:22D:DGAR
+:40C:URDG
+:23B:FIXD
+:31E:240320
+:35G:Expiry Condition/Event1
+Expiry Condition/Event2
+Expiry Condition/Event3
+Expiry Condition/Event4
+Expiry Condition/Event5
+Expiry Condition/Event6
+Expiry Condition/Event7
+Expiry Condition/Event8
+:50:A/C UNIVERSAL OIL SEEDS MFG CO PVT 
+HALAV POOL ROAD
+KURLA WEST
+Mumbai, Maharashtra
+:52a:ABOCCNBJ112
+:59a:Tata Power House
+PO Box 898766
+WENZHOU
+CHINA
+:57A:AEIBDEFXXXX
+:32B:USD100000,
+:41A:ANZBSGSXXXX
+:45C:ORGINAL INVOICEBILL OF LADINGPRODUCTION CERTIFICATEPACKING LIST
+:77U:Undertaking Terms and Conditions1Undertaking Terms and Conditions2Undertaking Terms and Conditions3Undertaking Terms and Conditions4Undertaking Terms and Conditions5
+:49:CONFIRM
+:58A:ABOCCNBJ120
+:44J:INGoverning Law / Jurisdiction
+:44H:INGoverning Law / Jurisdiction
+:23F:OTHRAS PER INDIAN GOVT.
+:71D:NOT APPLICABLE
+:72D:NOT APPLICABLE
+:72Z:NOT APPLICABLE
+:77L:NOT APPLICABLE
+:78:NOT APPLICABLE
+:48B:NPRT
+:48D:TRAN
+:39D:Not Applicable
+:39E:Transfer Conditions1Transfer Conditions2Transfer Conditions3Transfer Conditions4Transfer Conditions5Transfer Conditions6Transfer Conditions7
+:45L:Underlying Transaction Details1Underlying Transaction Details2Underlying Transaction Details3Underlying Transaction Details4Underlying Transaction Details5Underlying Transaction Details6Underlying Transaction Details7Underlying Transaction Details8
+:22K:DPAY
+:24E:COURDelivery of Original Undertaking
+:24G:BENE
+-}
